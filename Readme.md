@@ -18,8 +18,6 @@
    - [python.org](https://www.python.org/)에서 Python을 다운로드하고 설치합니다.
 2. **Pip** (Python 패키지 관리자)
    - Pip은 일반적으로 Python 설치 시 포함되어 있습니다.
-3. **텍스트 에디터 또는 IDE**
-   - VS Code, PyCharm 또는 간단한 텍스트 에디터를 사용하여 스크립트를 열고 수정할 수 있습니다.
 
 ---
 
