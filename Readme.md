@@ -53,7 +53,7 @@
 다음 명령어를 사용하여 스크립트를 실행하세요:
 
 ```bash
-python chat_analysis.py --file <채팅 파일 경로>
+python ChatAnalysis.py --file <채팅 파일 경로>
 ```
 
 ### 옵션
@@ -64,7 +64,7 @@ python chat_analysis.py --file <채팅 파일 경로>
 ### 예시
 
 ```bash
-python chat_analysis.py --file ./example_chat.txt --debug
+python ChatAnalysis.py --file ./example_chat.txt --debug
 ```
 
 ---
