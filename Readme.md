@@ -111,7 +111,7 @@ User3: 2024-12-23 10:15:00
 ### 디버깅 실행 예시
 
 ```bash
-python chat_analysis.py --file ./example_chat.txt --debug
+python ChatAnalysis.py --file ./example_chat.txt --debug
 ```
 
 디버그 로그는 다음과 같은 세부 정보를 포함합니다:
