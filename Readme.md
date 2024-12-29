@@ -38,15 +38,15 @@
    
    예를들어 다운로드 받은 파일의 ```txt-sample``` 폴더에 저장합니다.
    
-   ![alt text](./Images/image-1.png)
-   ![alt text](./Images/image-5.png)
-   ![alt text](./Images/image-4.png)
+   ![alt text](./Images/image-1.png)</br>
+   ![alt text](./Images/image-5.png)</br>
+   ![alt text](./Images/image-4.png)</br>
 
 ---
 
 ## 사용 방법
 다운로드 받은 폴더에서 마우스 오른쪽 버튼을 클릭하고 ```터미널에서 열기```를 클릭합니다.
-![alt text](./Images/image-6.png)
+![alt text](./Images/image-6.png)</br>
 다음 명령어를 사용하여 스크립트를 실행하세요:
 
 ```bash
