@@ -46,16 +46,27 @@
     3. 우측 하단 설정(톱니바퀴 모양의 아이콘 이미지)버튼을 누른 후 '대화 내용 내보내기'를 선택합니다.
     4. 이 때,  '텍스트만 보내기' 또는 '모든 메시지 내부저장소에 저장'을 선택하시면 대화내용을 이메일로 전송하거나 휴대폰에 저장하실 수 있습니다. 
    - 내보낸 파일을 스크립트에서 접근 가능한 디렉토리에 저장합니다.
+   
+   예를들어 다운로드 받은 파일의 ```txt-sample``` 폴더에 저장합니다.
+   
    ![alt text](./Images/image-1.png)
+   ![alt text](image-1.png)
+   ![alt text](image.png)
 
 ---
 
 ## 사용 방법
-
+다운로드 받은 폴더에서 마우스 오른쪽 버튼을 클릭하고 ```터미널에서 열기```를 클릭합니다.
+![alt text](image-2.png)
 다음 명령어를 사용하여 스크립트를 실행하세요:
 
 ```bash
 python ChatAnalysis.py --file <채팅 파일 경로>
+```
+
+예를 들어 다운로드 받은 카카오톡 채팅 로그 텍스트 파일을 ```txt-sample``` 폴더에 넣었다면 명령어는 아래와 같은 형식입니다.
+```bash
+python ChatAnalysis.py --file .\txt-sample\KakaoTalk_20241229_1221_37_272_group.txt
 ```
 ![alt text](./Images/image-2.png)
 ### 옵션
