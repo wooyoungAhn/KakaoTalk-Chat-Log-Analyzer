@@ -27,17 +27,6 @@
 1. **스크립트 다운로드 또는 복사**
    - 스크립트를 다운로드 받습니다.</br>
     ![alt text](./Images/image-3.png)
-2. **필요한 라이브러리 설치**
-   - 터미널이나 명령 프롬프트를 엽니다.
-   - 스크립트가 있는 디렉토리로 이동합니다.
-   - 아래 명령어를 실행하여 필요한 라이브러리를 설치합니다:
-     ```bash
-     pip install -r requirements.txt
-     ```
-     *(참고: 필요한 경우 아래 내용을 포함한 `requirements.txt` 파일을 생성하세요)*
-     ```
-     argparse
-     ```
 
 3. **채팅 로그 파일 준비**
    - 카카오톡 대화 내용을 `.txt` 파일로 내보냅니다.
@@ -50,14 +39,14 @@
    예를들어 다운로드 받은 파일의 ```txt-sample``` 폴더에 저장합니다.
    
    ![alt text](./Images/image-1.png)
-   ![alt text](image-1.png)
-   ![alt text](image.png)
+   ![alt text](./Images/image-5.png)
+   ![alt text](./Images/image-4.png)
 
 ---
 
 ## 사용 방법
 다운로드 받은 폴더에서 마우스 오른쪽 버튼을 클릭하고 ```터미널에서 열기```를 클릭합니다.
-![alt text](image-2.png)
+![alt text](./Images/image-6.png)
 다음 명령어를 사용하여 스크립트를 실행하세요:
 
 ```bash
